@@ -1,0 +1,2 @@
+# easyshop-assets
+test
